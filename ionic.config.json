@@ -1,0 +1,7 @@
+{
+  "name": "sleepPrediction",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
